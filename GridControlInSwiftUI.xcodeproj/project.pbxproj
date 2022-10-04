@@ -11,6 +11,7 @@
 		5E0064F728EC2CEC0047E470 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0064F628EC2CEC0047E470 /* ContentView.swift */; };
 		5E0064F928EC2CEE0047E470 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E0064F828EC2CEE0047E470 /* Assets.xcassets */; };
 		5E0064FC28EC2CEE0047E470 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E0064FB28EC2CEE0047E470 /* Preview Assets.xcassets */; };
+		5E00650328EC2F4B0047E470 /* Screenshot 2022-10-04 at 12.07.11.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E00650228EC2F4B0047E470 /* Screenshot 2022-10-04 at 12.07.11.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5E0064F628EC2CEC0047E470 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5E0064F828EC2CEE0047E470 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E0064FB28EC2CEE0047E470 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5E00650228EC2F4B0047E470 /* Screenshot 2022-10-04 at 12.07.11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2022-10-04 at 12.07.11.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		5E0064FA28EC2CEE0047E470 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				5E00650228EC2F4B0047E470 /* Screenshot 2022-10-04 at 12.07.11.png */,
 				5E0064FB28EC2CEE0047E470 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E0064FC28EC2CEE0047E470 /* Preview Assets.xcassets in Resources */,
+				5E00650328EC2F4B0047E470 /* Screenshot 2022-10-04 at 12.07.11.png in Resources */,
 				5E0064F928EC2CEE0047E470 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
